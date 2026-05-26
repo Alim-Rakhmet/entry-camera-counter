@@ -1,8 +1,8 @@
 {
   "video": "entry_camera.mp4",
-  "entries": 0,
+  "entries": 2,
   "exits": 0,
-  "unknown_tracks": 13,
+  "unknown_tracks": 38,
   "frame_sample_rate": 2,
   "notes": "Tracks < 1.5s or moving < 150px are discarded as unknown. VLM only triggers on valid entry/exits."
 }

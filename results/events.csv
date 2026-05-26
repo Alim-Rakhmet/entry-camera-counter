@@ -12,3 +12,30 @@ track_id,direction,start_time_s,end_time_s,confidence,notes
 15,unknown,123.5,123.6,0.496,Track too short
 16,unknown,124.5,126.0,0.377,Insufficient displacement
 23,unknown,143.5,144.6,0.352,Insufficient displacement
+30,unknown,171.0,171.5,0.358,Track too short
+31,unknown,173.4,174.6,0.352,Insufficient displacement
+35,unknown,212.6,236.8,0.311,Insufficient displacement
+35,unknown,238.5,239.3,0.321,Track too short
+36,unknown,261.8,269.2,0.332,Insufficient displacement
+51,unknown,273.3,273.5,0.319,Track too short
+52,unknown,273.4,275.0,0.377,Insufficient displacement
+53,unknown,275.3,275.4,0.328,Track too short
+52,unknown,276.9,277.2,0.345,Track too short
+55,unknown,278.4,279.5,0.302,Insufficient displacement
+37,entry,261.9,283.8,0.479,Valid entry
+40,entry,264.3,284.6,0.44,Valid entry
+60,unknown,283.2,285.0,0.6,Insufficient displacement
+64,unknown,285.3,285.3,0.372,Track too short
+56,unknown,281.2,286.6,0.422,Insufficient displacement
+66,unknown,288.2,288.5,0.456,Track too short
+67,unknown,288.3,288.6,0.422,Track too short
+73,unknown,305.1,305.2,0.34,Track too short
+76,unknown,321.8,330.0,0.345,Insufficient displacement
+77,unknown,342.3,342.4,0.389,Track too short
+80,unknown,505.7,505.7,0.342,Track too short
+81,unknown,530.9,533.8,0.324,Insufficient displacement
+83,unknown,548.5,552.0,0.316,Insufficient displacement
+84,unknown,553.5,556.6,0.309,Insufficient displacement
+84,unknown,559.4,560.9,0.324,Insufficient displacement
+88,unknown,577.2,577.3,0.318,Track too short
+91,unknown,583.0,584.3,0.301,Insufficient displacement

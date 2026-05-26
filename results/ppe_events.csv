@@ -1,0 +1,3 @@
+track_id,direction,timestamp_s,helmet,safety_vest,vlm_confidence,vlm_notes
+37,entry,272.85,yes,no,0.95,The individual is wearing a white hard hat/helmet but is wearing a blue and grey utility jacket with no high-visibility safety vest.
+40,entry,274.45,yes,no,0.95,"The person is wearing a white hard hat. They are wearing a work uniform jacket with minor reflective piping, but not a safety vest."

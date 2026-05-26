@@ -22,7 +22,7 @@ MIN_DISPLACEMENT_PX = 150
 MAX_DISAPPEAR_FRAMES = 30     
 
 ENABLE_VLM_BONUS = True
-VLM_MODEL_NAME = "gemini-1.5-flash"
+VLM_MODEL_NAME = "gemini-3.5-flash"
 
 def classify_ppe_with_vlm(crop_img: np.ndarray) -> Dict[str, Any]:
     if crop_img is None or crop_img.size == 0:
