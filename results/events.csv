@@ -1,0 +1,14 @@
+track_id,direction,start_time_s,end_time_s,confidence,notes
+1,unknown,1.5,7.3,0.337,Insufficient displacement
+1,unknown,9.7,9.7,0.385,Track too short
+2,unknown,16.1,21.3,0.3,Insufficient displacement
+3,unknown,37.5,37.8,0.331,Track too short
+5,unknown,47.9,55.3,0.37,Insufficient displacement
+6,unknown,71.3,72.0,0.321,Track too short
+6,unknown,74.4,74.5,0.301,Track too short
+10,unknown,92.0,99.3,0.392,Insufficient displacement
+11,unknown,102.1,104.9,0.307,Insufficient displacement
+11,unknown,107.0,107.1,0.326,Track too short
+15,unknown,123.5,123.6,0.496,Track too short
+16,unknown,124.5,126.0,0.377,Insufficient displacement
+23,unknown,143.5,144.6,0.352,Insufficient displacement
